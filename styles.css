@@ -1,0 +1,27 @@
+#header {
+    font-size: 30px;
+    color: rgb(44, 171, 131);
+    line-height:10px;
+}
+
+label {
+    font-size:20px;
+}
+
+#foodName, #calories, #totalCalories {
+    width:250px;
+    height:20px;
+    font-size:18px;
+}
+
+#totalCalories {
+    background-color:rgb(241, 232, 123);
+    color:black;
+}
+
+#submitBtn {
+    width:100px;
+    padding:8px;
+    font-size:18px;
+    background-color:rgb(6, 240, 100);
+}
